@@ -2,7 +2,7 @@
 
 A **full CRUD web application** for managing a book collection — built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step, no server needed. Just open `index.html` and go.
 
-🔗 **Live demo:** `https://<your-username>.github.io/library-management`
+🔗 **Live demo:** https://karobel.github.io/library/
 
 ---
 
